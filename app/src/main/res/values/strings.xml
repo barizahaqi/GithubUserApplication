@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUserApplication</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="search">Search User</string>
+    <string name="user_name">Nama</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="no_data">No Data</string>
+    <string name="followers_fragment">Followers</string>
+    <string name="following_fragment">Following</string>
+    <string name="count_following"> %1$d Following</string>
+    <string name="count_followers"> %1$d Followers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_button_description">favorite_button</string>
+    <string name="favorite_menu">favorite_menu</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu_setting">Menu Setting</string>
+</resources>
